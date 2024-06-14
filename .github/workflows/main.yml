@@ -6,7 +6,7 @@ on:
       triggle:
         description: 'triggle'
   schedule:
-     - cron:  '0 2,4,6,8,10,12,14,16,18,20,02 * * *' # 每1个小时触发一次
+     - cron:  '0 02,04,06,08,10,12,14,16,18,20,22 * * *' # 每2个小时触发一次
   push:
     branches:
       - main
@@ -27,6 +27,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install requests
+        pip install lxml
         
     - name: Run py
       run: python ${{ github.workspace }}/gd1.py      
@@ -37,8 +38,8 @@ jobs:
         git config --local user.name "CLiu"
         #git reset --hard origin/main
         git add .
-        git commit -m "Add generated file"
-        #git commit *.txt -m "Add generated file"
+        #git commit -m "Add generated file"
+        git commit *.txt -m "Add generated file"
         #git commit *.m3u -m "Add generated file"
         #git pull --rebase
         git push -f
