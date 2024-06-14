@@ -3,7 +3,6 @@ from lxml import etree
 import re
 import time
 
-# url = "http://104.233.187.235/4ghtml/live.html"
 url = "http://twip.xztvtv.site/"
 
 header = {
@@ -15,7 +14,9 @@ response.encoding = 'utf-8'
 et = etree.HTML(response.text)
 #div[1]/div/div[2]/ul/li[1]
 channels = et.xpath('//div[1]/div/div[2]/ul/li')
-with open("D:/Python/TW_PP" + '.txt', 'w', encoding='utf-8') as f:
+ # 生成txt文件
+txt_content = 'TW,#genre#\n'
+with open('TW_PP.txt', 'w', encoding='utf-8') as f:
     for channel in channels:
         title = channel.xpath('./div/a/text()')[0]
         title = title[1:]
