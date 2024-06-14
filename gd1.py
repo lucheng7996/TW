@@ -4,12 +4,14 @@ import re
 import time
 
 url = "http://twip.xztvtv.site/"
-
+proxy= {
+        'http': '47.94.222.78:80',
+    }
 header = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 }
 
-response = requests.get(url, headers=header, verify=True)
+response = requests.get(url, headers=header, proxies=proxy, verify=True)
 response.encoding = 'utf-8'
 et = etree.HTML(response.text)
 #div[1]/div/div[2]/ul/li[1]
@@ -17,6 +19,7 @@ channels = et.xpath('//div[1]/div/div[2]/ul/li')
  # 生成txt文件
 txt_content = 'TW,#genre#\n'
 with open('TW_PP.txt', 'w', encoding='utf-8') as f:
+    f.write(txt_content)
     for channel in channels:
         title = channel.xpath('./div/a/text()')[0]
         title = title[1:]
