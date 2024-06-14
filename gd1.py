@@ -5,7 +5,7 @@ import time
 
 url = "http://twip.xztvtv.site/"
 proxy= {
-        'http': '47.94.222.78:80',
+        'http': '58.246.58.150:9002',
     }
 header = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
