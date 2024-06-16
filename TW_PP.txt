@@ -1,1 +1,22 @@
-TW,#genre#
+CCTV-1 综合,http://twip.xztvtv.site/startv.php?id=Y2N0djEK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-2 财经,http://twip.xztvtv.site/startv.php?id=Y2N0djIK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-3 综艺,http://twip.xztvtv.site/startv.php?id=Y2N0djMK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-4 中文国际,http://twip.xztvtv.site/startv.php?id=Y2N0djQK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-5 体育,http://twip.xztvtv.site/startv.php?id=Y2N0djUK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-5+ 体育赛事,http://twip.xztvtv.site/startv.php?id=Y2N0djVwbHVzCg==&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-6 电影,http://twip.xztvtv.site/startv.php?id=Y2N0djYK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-7 国防军事,http://twip.xztvtv.site/startv.php?id=Y2N0djcK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-8 电视剧,http://twip.xztvtv.site/startv.php?id=Y2N0djgK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-9 纪录,http://twip.xztvtv.site/startv.php?id=Y2N0djkK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-10 科教,http://twip.xztvtv.site/startv.php?id=Y2N0djEwCg==&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-11 戏曲,http://twip.xztvtv.site/startv.php?id=Y2N0djExCg==&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-12 社会与法,http://twip.xztvtv.site/startv.php?id=Y2N0djEyCg==&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-13 新闻,http://twip.xztvtv.site/startv.php?id=Y2N0djEzCg==&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-14 少儿,http://twip.xztvtv.site/startv.php?id=Y2N0djE0Cg==&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-15 音乐,http://twip.xztvtv.site/startv.php?id=Y2N0djE1Cg==&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-16 奥林匹克,http://twip.xztvtv.site/startv.php?id=Y2N0djE2Cg==&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CCTV-17 农业农村,http://twip.xztvtv.site/startv.php?id=Y2N0djE3Cg==&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CHC家庭影院,http://twip.xztvtv.site/startv.php?id=Y2hjLWp0eXkK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CHC动作电影,http://twip.xztvtv.site/startv.php?id=Y2hjLWR6ZHkK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+CHC高清电影,http://twip.xztvtv.site/startv.php?id=Y2hjLWdxZHkK&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
+重温经典,http://twip.xztvtv.site/startv.php?id=Y3dqZAo=&key=fe/kdwNYYCBjcOjW9REfJCAVujLe4O5bIOumSxBTHWvQOc13odAu2dzzLlXtQ7Vc
