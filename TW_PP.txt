@@ -1,50 +1,55 @@
 TW,#genre#
-凤凰卫视资讯台,https://ali.hlspull.yximgs.com/live/b5791901210c8bc4971b3ce45ca85e50.flv
-凤凰卫视香港台,https://ali.hlspull.yximgs.com/live/b8bdbdd66af7f0c3d6aa3a4f2c43f9e0.flv
-香港有线新闻台,https://ali.hlspull.yximgs.com/live/e9440c0a158205d30e35c960ca490d30.flv
-香港有线18台,https://ali.hlspull.yximgs.com/live/d2467498cd6441e024113cbfdd3b421e.flv
-香港有线18台(普通话),https://ali.hlspull.yximgs.com/live/3bf71b784a998e7f646013611064a003.flv
-TVB无线新闻台,https://ali.hlspull.yximgs.com/live/aff42aacff6552ff6ffe5f334ba1c447.flv
-TVB翡翠台,https://ali.hlspull.yximgs.com/live/3a0a30f54361c310675a31e8c20e6253.flv
-黃金翡翠台,https://ali.hlspull.yximgs.com/live/4eac46549373adb3f063315de044b305.flv
-TVB明珠台,https://ali.hlspull.yximgs.com/live/c6523ea7ae5e4113372f06590d85af33.flv
-TVB Plus,https://ali.hlspull.yximgs.com/live/2b0d4b4dfe2d762ca1ce72cb862f1526.flv
-TVB星河,https://ali.hlspull.yximgs.com/live/209e22b7ff05e480710eb1645722f942.flv
-ViuTV,https://ali.hlspull.yximgs.com/live/fff2c747b15f8f4031658b74a43c6058.flv
-NOW新闻台,https://ali.hlspull.yximgs.com/live/1b8fa6076ef27da18c43d7b4a975baf5.flv
-HOY国际财经台,https://ali.hlspull.yximgs.com/live/d6474d2e164b7c0fb823fd389f19dccb.flv
-HOY TV,https://ali.hlspull.yximgs.com/live/3ba89af7eafcd569e125dab3709212f9.flv
-HOY资讯台,https://ali.hlspull.yximgs.com/live/e9440c0a158205d30e35c960ca490d30.flv
-港台电视31,https://ali.hlspull.yximgs.com/live/a5537e7eca05395df438bc6ddb4674e5.flv
-港台电视32,https://ali.hlspull.yximgs.com/live/402e72422262463213ea536ec0950700.flv
-中天新闻台,https://ali.hlspull.yximgs.com/live/a55d224e207a52c61f7d58aa6e441885.flv
-东森财经新闻台,https://ali.hlspull.yximgs.com/live/24af4e6d762d46f272de9e4a30169780.flv
-寰宇新闻台,https://ali.hlspull.yximgs.com/live/e511ab1d443a2843327c8718c54a3d60.flv
-寰宇新闻台湾台,https://ali.hlspull.yximgs.com/live/00322aa4119e1c70c603cb33b2bb2317.flv
-台视新闻台,https://ali.hlspull.yximgs.com/live/e118e8a25d813bf49398cd784883cf77.flv
-中视新闻台,https://ali.hlspull.yximgs.com/live/3f50110d5fff7cc07f5b90b2ee1102b4.flv
-华视新闻台,https://ali.hlspull.yximgs.com/live/a19244053c56fb46fdf25272b5feee2a.flv
-TVBS新闻台,https://ali.hlspull.yximgs.com/live/c061e533f8cf3b0f50f6a0fde41dba4e.flv
-三立新闻台,https://ali.hlspull.yximgs.com/live/52f5993cf95a1747163fda6fcbf62791.flv
-三立iNEWS,https://ali.hlspull.yximgs.com/live/3bb94990cfec7c0843e405d43b319bad.flv
-镜电视新闻台,https://ali.hlspull.yximgs.com/live/8f0c84661483b36e57124401430349f7.flv
-公视新闻,https://ali.hlspull.yximgs.com/live/983d8fa494fffe3eece1bd369e79ce23.flv
-民视新闻台,https://ali.hlspull.yximgs.com/live/fae410cbfea1f5e5d54ff5d50db7559f.flv
-民视第一台,https://ali.hlspull.yximgs.com/live/b9cbfc073f7cf6c0dfdecb86602a1c9b.flv
-民视台湾台,https://ali.hlspull.yximgs.com/live/bf4e2e18e8327d62141ec68e9b03c3f5.flv
-民视影剧台,https://ali.hlspull.yximgs.com/live/f7d76bdb3543b0d5003b1725e895889a.flv
-民视旅游台,https://ali.hlspull.yximgs.com/live/2f6d02b7ec50cc360700b5712c42d824.flv
-民视综艺台,https://ali.hlspull.yximgs.com/live/c75a601773540c2c468beb77b644badf.flv
-民视,https://ali.hlspull.yximgs.com/live/3234f5e94169ed564cb86d7104aee756.flv
-台视,https://ali.hlspull.yximgs.com/live/145c509767a38b3e561ad6c10e804ec2.flv
-中视,https://ali.hlspull.yximgs.com/live/0ac9f34a13453a50b36fa4861bcd23d5.flv
-华视,https://ali.hlspull.yximgs.com/live/418039953317b1a3409dd1bcd9b0e8f5.flv
-TVBS HD,https://ali.hlspull.yximgs.com/live/24bbe1c14e0ea3d2b526de2f6774d843.flv
-TVBS欢乐台,https://ali.hlspull.yximgs.com/live/43aa46ef5ab91b750966b8f05c03da2a.flv
-中天亚洲台,https://ali.hlspull.yximgs.com/live/feeec8b9a53dd180b6c7e06d15c70d10.flv
-纬来体育台,https://ali.hlspull.yximgs.com/live/7e17d298a7d8c6ae9aad861bcd59141c.flv
-纬来育乐台,https://ali.hlspull.yximgs.com/live/b5e8f8d13b62b734cfd9201e3aafd324.flv
-ELEVEN 2,https://ali.hlspull.yximgs.com/live/9f0448a6ca84043e5420d181f8c2a6a0.flv
-爱尔达体育2台,https://ali.hlspull.yximgs.com/live/89e468bb583ad298b2713dcea04a6140.flv
-MOMO综合台,https://ali.hlspull.yximgs.com/live/0a5610e4a1a93aac2c404659d9d10b37.flv
-CNN新闻频道,https://ali.hlspull.yximgs.com/live/d3c8ee8a3bfef029e3c1307b1036fcaf.flv
+凤凰卫视中文台,
+凤凰卫视资讯台,
+凤凰卫视香港台,
+香港有线新闻台,
+香港有线18台,
+香港有线18台(普通话),
+TVB无线新闻台,
+TVB翡翠台,
+黃金翡翠台,
+TVB明珠台,
+TVB Plus,
+TVB娱乐新闻台,
+TVB星河,
+ViuTV,
+NOW新闻台,
+HOY国际财经台,
+HOY TV,
+HOY资讯台,
+港台电视31,
+港台电视32,
+东森新闻台,
+东森财经新闻台,
+寰宇新闻台,
+寰宇新闻台湾台,
+台视新闻台,
+中视新闻台,
+华视新闻台,
+TVBS新闻台,
+三立iNEWS,
+镜电视新闻台,
+公视新闻,
+民视新闻台,
+民视第一台,
+民视台湾台,
+民视影剧台,
+️民视旅游台,
+民视综艺台,
+民视,
+台视,
+中视,
+华视,
+TVBS HD,
+TVBS欢乐台,
+中天亚洲台,
+纬来体育台,
+纬来日本台,
+纬来育乐台,
+ELEVEN 1,
+ELEVEN 2,
+爱尔达体育1台,
+爱尔达体育2台,
+爱尔达体育3台,
+东森超视,
+CNN新闻频道,
