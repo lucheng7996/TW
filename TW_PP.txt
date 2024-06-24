@@ -1,52 +1,42 @@
 TW,#genre#
-凤凰卫视中文台,https://ali.hlspull.yximgs.com/live/6c4d9351518ba67a680a1f7568eca124.flv
-凤凰卫视资讯台,https://ali.hlspull.yximgs.com/live/38d11bbb0e6adedb226b3e0969d1cbed.flv
+凤凰卫视中文台,https://ali.hlspull.yximgs.com/live/342b262292f001a65490ed9a3d1e818e.flv
 凤凰卫视香港台,https://ali.hlspull.yximgs.com/live/638649ad13f0fbc1cf3fc4e03d274ea7.flv
-香港有线新闻台,https://ali.hlspull.yximgs.com/live/8e510d08d5075d5d158338b0994bd53d.flv
-香港有线18台,https://ali.hlspull.yximgs.com/live/cf21b32180a2f9d1e5fb02709f7d05be.flv
+香港有线新闻台,https://ali.hlspull.yximgs.com/live/616d76f04308acf7a15b460407526dbd.flv
+香港有线18台,https://ali.hlspull.yximgs.com/live/7450862fa5277aef8ed18683c10ef9d2.flv
 香港有线18台(普通话),https://ali.hlspull.yximgs.com/live/1d6c8da1072d1c2cdeff4a33bcb829e6.flv
-TVB无线新闻台,https://ali.hlspull.yximgs.com/live/a22aa25bfcc2f7d7057f9ac2d4bc3a4d.flv
-TVB翡翠台,https://ali.hlspull.yximgs.com/live/e0663c443e37d32cb77a2aca66adde4a.flv
+TVB无线新闻台,https://ali.hlspull.yximgs.com/live/5a0c46ce4549ace09de0eb9f42e051ee.flv
+TVB翡翠台,https://ali.hlspull.yximgs.com/live/963083c37007a70365e39e618fb9fa26.flv
+黃金翡翠台,https://ali.hlspull.yximgs.com/live/9047362c6655a4044752466797b6fc10.flv
 TVB明珠台,https://ali.hlspull.yximgs.com/live/67a5549430cc7e3eb89823671871a585.flv
-TVB Plus,https://ali.hlspull.yximgs.com/live/73893c6fea6c99d563407f03b84f0075.flv
-TVB娱乐新闻台,https://ali.hlspull.yximgs.com/live/3527e70d35facbc0b0f5a74cb5668439.flv
-ViuTV,https://ali.hlspull.yximgs.com/live/93e08c3082ba0d336a9ffece4297e72a.flv
-NOW新闻台,https://ali.hlspull.yximgs.com/live/88e7e07f3c7e966dee84123177e7403b.flv
-HOY国际财经台,https://ali.hlspull.yximgs.com/live/a74573cd738be2aac8ce5b7350982312.flv
+TVB Plus,https://ali.hlspull.yximgs.com/live/864bdc025417cec87e061234866ace3c.flv
 HOY TV,https://ali.hlspull.yximgs.com/live/303f4f530089234f593eda7d5ee019a9.flv
 HOY资讯台,https://ali.hlspull.yximgs.com/live/8e510d08d5075d5d158338b0994bd53d.flv
-️港台电视32,https://ali.hlspull.yximgs.com/live/3247e8360e9a427184e66d43fe54842c.flv
-中天新闻台,https://ali.hlspull.yximgs.com/live/55ba6b67984d0766a0e556dfd083f6dc.flv
-东森新闻台,https://ali.hlspull.yximgs.com/live/1caf9ec33d2c8741eb1ea99219d1cf8c.flv
-东森财经新闻台,https://ali.hlspull.yximgs.com/live/f317974fbece323c33df4e34447e6076.flv
-寰宇新闻台,https://ali.hlspull.yximgs.com/live/4e3c84888be06bf23611992284768faa.flv
-寰宇新闻台湾台,https://ali.hlspull.yximgs.com/live/7effb15175291aa891ebd4aa0ac7636c.flv
-台视新闻台,https://ali.hlspull.yximgs.com/live/1431e30237c634bf09cb0277d2d1d8cc.flv
-中视新闻台,https://ali.hlspull.yximgs.com/live/5da180972f45d4931c9e10eeb3f758e0.flv
-️华视新闻台,https://ali.hlspull.yximgs.com/live/08d3d48dbcb5c7d709e529f9892092fc.flv
-三立新闻台,https://ali.hlspull.yximgs.com/live/841e0fbc1d3379b56c097dd779bffa0e.flv
+港台电视31,https://ali.hlspull.yximgs.com/live/1b63036f3244fa1f1920488d481ac564.flv
+港台电视32,https://ali.hlspull.yximgs.com/live/3247e8360e9a427184e66d43fe54842c.flv
+中天新闻台,https://ali.hlspull.yximgs.com/live/45ba106f5897f8f29afb8400c40490f7.flv
+东森财经新闻台,https://ali.hlspull.yximgs.com/live/790e04f3a2680ebc31147eba79e64c89.flv
+寰宇新闻台,https://ali.hlspull.yximgs.com/live/30376dcea83e08a457daf04aff68d553.flv
+寰宇新闻台湾台,https://ali.hlspull.yximgs.com/live/502edd05840198bfc3591b33fdca95ee.flv
+台视新闻台,https://ali.hlspull.yximgs.com/live/5f5cf1a4247c60fb96dba27b13365e45.flv
+中视新闻台,https://ali.hlspull.yximgs.com/live/4b8584bb1e0719f15eef6acc85cffb72.flv
+华视新闻台,https://ali.hlspull.yximgs.com/live/5d088cab22e4985b3fdbe551377c7afc.flv
+TVBS新闻台,https://ali.hlspull.yximgs.com/live/fa6e6d13d9a64dd7f2f99c5a20094e00.flv
+三立新闻台,https://ali.hlspull.yximgs.com/live/966586891ea3bcccc34bbc9ee9de3d94.flv
 三立iNEWS,https://ali.hlspull.yximgs.com/live/bceb392f851fcf299dab7ccdc68519cd.flv
-镜电视新闻台,https://ali.hlspull.yximgs.com/live/49faefa01a92f66d0793c2f2ff162eda.flv
 公视新闻,https://ali.hlspull.yximgs.com/live/e96f245a3064d368ce6579bbcf383910.flv
-民视新闻台,https://ali.hlspull.yximgs.com/live/952a6dce5d669f6f5068cf05facfdf65.flv
-民视第一台,https://ali.hlspull.yximgs.com/live/6bdeac9b5e614556e48a0a1d0997db43.flv
+民视新闻台,https://ali.hlspull.yximgs.com/live/452c0133eadcd37ffb1505caf0290fd6.flv
 民视台湾台,https://ali.hlspull.yximgs.com/live/5c95bb1d039bbbf563329c489327b5d3.flv
 民视影剧台,https://ali.hlspull.yximgs.com/live/a5173237e940fee9354d53866663dfe8.flv
-民视旅游台,https://ali.hlspull.yximgs.com/live/42d7f28efc7115dc68943663f256d63f.flv
+民视旅游台,
 民视综艺台,https://ali.hlspull.yximgs.com/live/864b8a8891e4fb45d085a9004df238f7.flv
-民视,https://ali.hlspull.yximgs.com/live/7b6ff76b0bfa66f4e8474a562e3b34fd.flv
-台视,https://ali.hlspull.yximgs.com/live/ce51e604db23f0b25c5339a9664d6023.flv
 中视,https://ali.hlspull.yximgs.com/live/dfa5d6d6e0e5637b509004e336311142.flv
-华视,https://ali.hlspull.yximgs.com/live/4f7c40d3468a372255ed31f501b04c36.flv
-TVBS HD,https://ali.hlspull.yximgs.com/live/0e8ea4a65edfab1a3b76a6108ec4c722.flv
+华视,https://ali.hlspull.yximgs.com/live/0e86395093b1707ae514de587ea6d01e.flv
+TVBS HD,https://ali.hlspull.yximgs.com/live/b0117dd41da13049184694d685f93432.flv
+TVBS欢乐台,https://ali.hlspull.yximgs.com/live/7304eb449a85d494ddee0dc89c823dae.flv
 中天亚洲台,https://ali.hlspull.yximgs.com/live/fb8e515332325e5a8e62ce8ee7f94cd5.flv
-纬来体育台,https://ali.hlspull.yximgs.com/live/f00dbe59df75390e06d318efbc658055.flv
+纬来体育台,https://ali.hlspull.yximgs.com/live/249d3690a80f4139e5abaa3844b598b4.flv
 纬来日本台,https://ali.hlspull.yximgs.com/live/a00e864a88fb19024c3c48d32a3fea7a.flv
-纬来育乐台,https://ali.hlspull.yximgs.com/live/b6c326e5bd922b5c069df4f1569baf5b.flv
-ELEVEN 1,https://ali.hlspull.yximgs.com/live/9e9df65c5af969e4e0e66b5d959d35a2.flv
+纬来育乐台,https://ali.hlspull.yximgs.com/live/6c474528d2ea23b9647851d8b7475bd3.flv
 ELEVEN 2,https://ali.hlspull.yximgs.com/live/4478ff7b795b4497f537d4a208fb4ee4.flv
-爱尔达体育1台,https://ali.hlspull.yximgs.com/live/3ba3931be36dca5e2e73391c03078e01.flv
-爱尔达体育2台,https://ali.hlspull.yximgs.com/live/982f5ab2226def127848ae28da967f1c.flv
-MOMO综合台,https://ali.hlspull.yximgs.com/live/112478da85f654f1766b8b76db773585.flv
+爱尔达体育3台,https://ali.hlspull.yximgs.com/live/796a566c00d99d1b7711af56061f5b2e.flv
 东森超视,https://ali.hlspull.yximgs.com/live/89fe588d87dd85fa0b802f926e37e90b.flv
-CNN新闻频道,https://ali.hlspull.yximgs.com/live/59478378067554e07dbb83cff049c512.flv
