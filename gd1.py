@@ -16,6 +16,7 @@ header = {
 response = requests.get(url, headers=header, proxies=proxy, verify=True)
 response.encoding = 'utf-8'
 et = etree.HTML(response.text)
+print(response.text)
 # div[1]/div/div[2]/ul/li[1]
 # channels = et.xpath('//div[1]/div/div[2]/ul/li')
 # channels = et.xpath('//div[1]/div/div[2]/ul/div[2]/ul/div[2]/ul/div[2]/ul/div[2]/ul/li')
