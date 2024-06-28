@@ -20,7 +20,7 @@ print(response.text)
 # div[1]/div/div[2]/ul/li[1]
 # channels = et.xpath('//div[1]/div/div[2]/ul/li')
 # channels = et.xpath('//div[1]/div/div[2]/ul/div[2]/ul/div[2]/ul/div[2]/ul/div[2]/ul/li')
-channels = et.xpath('//div[1]/div/div[2]/ul/div[2]/ul/div[2]/ul/div[2]/ul/div[2]/ul/li') #新频道
+channels = et.xpath('//div[1]/div/div[2]/ul/div[2]/ul/div[2]/ul/div[2]/ul/div[2]/ul/div[2]/ul/li') #推流测试
 # channels1 = et.xpath('//div[1]/div/div[2]/ul/li') #特别推荐
 # 生成txt文件
 txt_content = 'TW,#genre#\n'
@@ -36,10 +36,8 @@ with open('TW_PP.txt', 'w', encoding='utf-8') as f:
      try:
          play_resp = requests.get(play_url, headers=header, verify=True, timeout=2)
          # print(play_resp.text)
-         # p_url = re.findall('videoUrl: "(.*?)";', play_resp.text)[0]
-         if play_resp.status_code == 200:
-             p_url = play_resp.url
-         # p_url = re.findall('videoUrl: "(.*?)",', play_resp.text)[0]
+         # p_url = re.findall('videoUrl: "(.*?)";', play_resp.text)[0]         
+         p_url = re.findall('videoUrl: "(.*?)",', play_resp.text)[0]
          # print((title + "," + p_url + "\n"))
          f.write(title + "," + p_url + "\n")
      except:
