@@ -1,1 +1,10 @@
 TW,#genre#
+凤凰卫视中文台,https://ali.hlspull.yximgs.com/live/c270X0eJSViPmCjQwol9pvl0jOlOPYF4.flv
+凤凰卫视资讯台,https://ali.hlspull.yximgs.com/live/jNL1hbA274mHWeStfiA6NE34LHEmfBa0.flv
+凤凰卫视香港台,https://ali.hlspull.yximgs.com/live/EmIPZErONkYr0SdEihQBDTv9yxV2c6Ry.flv
+TVB明珠台,https://ali.hlspull.yximgs.com/live/Xny7r5C11A0JNZDk9iThDrkWQES2tF8E.flv
+港版美亚电影,http://ali.hlspull.yximgs.com/live/BHzIc3167ocPjY4JbHyLUaMwPSHZLaMs.flv
+龙祥电影台,http://ali.hlspull.yximgs.com/live/HNaeGhsonJX27cyoFUmVYr6mdLdXXbXq.flv
+卫视电影台,http://ali.hlspull.yximgs.com/live/aZVHeKPSU2t4Yc0yqefxJnGbeJyFbNbn.flv
+龙华电影台,http://ali.hlspull.yximgs.com/live/9COOw9rlxcgC4lI5rO1FBxpxuFURiZpM.flv
+HBO HD,http://ali.hlspull.yximgs.com/live/Uq9ixQm34aWE9VdGAetl9UyLRKCbsiZ4.flv
